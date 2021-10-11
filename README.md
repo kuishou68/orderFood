@@ -10,7 +10,7 @@ vue2 + vuex + vue-router + webpack + ES6/7 + fetch + sass + flex + svg
 
 ```
 
-cd vue2-front
+cd orderFood
 
 npm install 或 yarn(推荐)
 
